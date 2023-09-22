@@ -1,0 +1,1 @@
+ inquire about the item details for each incoming object identifier (object_id) and sift through the entities based on their 'online' status. Store all these entities within a PostgreSQL database, including a timestamp indicating the most recent sighting of each object.
